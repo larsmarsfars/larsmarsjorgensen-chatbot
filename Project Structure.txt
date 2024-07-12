@@ -1,0 +1,11 @@
+larsmarsjorgensen-chatbot/
+├── app.py
+├── requirements.txt
+├── Procfile
+├── templates/
+│   └── index.html
+└── static/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
